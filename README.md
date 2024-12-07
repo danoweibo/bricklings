@@ -14,4 +14,4 @@
 
 ## Usage
 
-To get started with **Bricklings**, visit [Bricklings Platform](https://bricklings.app):
+To get started with **Bricklings**, visit [Bricklings Platform](https://bricklings.dev):
